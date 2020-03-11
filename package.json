@@ -4,6 +4,8 @@
   "homepage": "http://mansijoshi17.github.io/robofriends-redux",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
+    "express-sslify": "^1.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",
